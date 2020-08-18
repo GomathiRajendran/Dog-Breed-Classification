@@ -1,0 +1,3 @@
+Dog Breed Identification is a multiclass classification problem
+Tensorflow 2.0 and Tensorflow Hub are used
+The entire project is built in google colab to avail GPU for fast computation
